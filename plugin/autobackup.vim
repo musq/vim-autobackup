@@ -5,7 +5,7 @@ endif
 
 let g:vim_autobackup = 1
 
-let g:vim_autobackup_dir = '~/.vim/backups'
+let g:vim_autobackup_dir = '~/.cache/vim/backups'
 let g:vim_autobackup_time = 120000
 
 " if ! isdirectory(g:vim_autobackup_dir)
