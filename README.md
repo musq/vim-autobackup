@@ -5,5 +5,5 @@ backup directory every once in a while.
 
 #### Defaults:
 
-- Location - `~/.config/vim/backups`
+- Location - `~/.cache/vim/backups`
 - Timeout - `2 minutes`
